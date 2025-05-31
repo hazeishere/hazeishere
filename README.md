@@ -1,4 +1,6 @@
-## Hi there 👋
+## 哈囉！我是Hazel 👋
+
+目前只是初階工程師，正在不斷進化中。未來會持續打造更有深度的專案！
 
 <!--
 **hazeishere/hazeishere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
